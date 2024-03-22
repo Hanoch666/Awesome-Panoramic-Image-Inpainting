@@ -1,6 +1,6 @@
-# Awesome-Panoramic-Image-Inpainting-Tech
+# Awesome-Panoramic-Image-Inpainting
 
-A curated list of panoramic image inpainting papers and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A curated list of panoramic image inpainting papers and resources.
 
 This `README.md` is automatically generated from [`.dev_scripts/collection.csv`](.dev_scripts/collection.csv). 
 
