@@ -1,6 +1,7 @@
 Year,Conf,Type,Ttitle,URL,Code,Project
-2023,CVPR,video,Deep Stereo Video Inpainting,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Deep_Stereo_Video_Inpainting_CVPR_2023_paper.pdf,,
-2023,CVPR,video,Semi-Supervised Video Inpainting With Cycle Consistency Constraints,https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Semi-Supervised_Video_Inpainting_With_Cycle_Consistency_Constraints_CVPR_2023_paper.pdf,,
-2023,CVPR,image,Imagen Editor and EditBench: Advancing and Evaluating Text-Guided Image Inpainting,https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Imagen_Editor_and_EditBench_Advancing_and_Evaluating_Text-Guided_Image_Inpainting_CVPR_2023_paper.pdf,,https://imagen.research.google/editor/
-2023,CVPR,image,NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN,https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf,https://github.com/kodenii/NUWA-LIP,
-2023,CVPR,image,SmartBrush: Text and Shape Guided Object Inpainting With Diffusion Model,https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_SmartBrush_Text_and_Shape_Guided_Object_Inpainting_With_Diffusion_Model_CVPR_2023_paper.pdf,,
+2020,CMC,image,PIINET: A 360-degree Panoramic Image Inpainting Network Using a Cube Map,https://arxiv.org/pdf/2010.16003,https://github.com/swhan0329/panorama_image_inpainting,
+2024,ICASSP ,image,Panoramic Image Inpainting With Gated Convolution And Contextual Reconstruction Loss,https://arxiv.org/pdf/2402.02936,,
+2022,TVCG,image,Instant Automatic Emptying of Panoramic Indoor Scenes,https://publications.crs4.it/pubdocs/2022/PAAG22/ismar2022-emptying.pdf,,
+2022,ACCV ,image,Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization,https://arxiv.org/pdf/2301.05624,https://github.com/ericsujw/LGPN-net,
+2021,CVPRW,image,PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes,https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf,https://github.com/VCL3D/PanoDR,
+2021,VISIGRAPP ,image,Towards full-to-empty room generation with structure-aware feature encoding and soft semantic region-adaptive normalization,https://arxiv.org/pdf/2112.05396,,
