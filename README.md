@@ -9,9 +9,10 @@ We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md`
 Welcome to pull request to update or correct this collection. 🥰
 ## Year 2024
 - **ICASSP** (image) [Panoramic Image Inpainting With Gated Convolution And Contextual Reconstruction Loss](https://arxiv.org/pdf/2402.02936).
+## Year 2023
+- **ACCV** (image) [Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization](https://arxiv.org/pdf/2301.05624). [[code]](https://github.com/ericsujw/LGPN-net) 
 ## Year 2022
 - **TVCG** (image) [Instant Automatic Emptying of Panoramic Indoor Scenes](https://publications.crs4.it/pubdocs/2022/PAAG22/ismar2022-emptying.pdf).
-- **ACCV** (image) [Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization](https://arxiv.org/pdf/2301.05624). [[code]](https://github.com/ericsujw/LGPN-net) 
 ## Year 2021
 - **VISIGRAPP** (image) [Towards full-to-empty room generation with structure-aware feature encoding and soft semantic region-adaptive normalization](https://arxiv.org/pdf/2112.05396).
 - **CVPRW** (image) [PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes](https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf). [[code]](https://github.com/VCL3D/PanoDR) 
