@@ -8,8 +8,11 @@ We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md`
 
 Welcome to pull request to update or correct this collection. 🥰
 ## Year 2024
+- **arXiv** (image) [Windowed-FourierMixer: Enhancing Clutter-Free Room Modeling with Fourier Transform
+](https://arxiv.org/pdf/2402.18287). [[project]](dd) 
 - **ICASSP** (image) [Panoramic Image Inpainting With Gated Convolution And Contextual Reconstruction Loss](https://arxiv.org/pdf/2402.02936).
 ## Year 2023
+- **ISVC** (image) [Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination](https://arxiv.org/pdf/2311.12265). [[code]](https://github.com/Gzhji/vs_natural_ill) 
 - **ACCV** (image) [Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization](https://arxiv.org/pdf/2301.05624). [[code]](https://github.com/ericsujw/LGPN-net) 
 ## Year 2022
 - **TVCG** (image) [Instant Automatic Emptying of Panoramic Indoor Scenes](https://publications.crs4.it/pubdocs/2022/PAAG22/ismar2022-emptying.pdf).

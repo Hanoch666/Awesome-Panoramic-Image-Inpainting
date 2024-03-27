@@ -5,3 +5,6 @@ Year,Conf,Type,Ttitle,URL,Code,Project
 2023,ACCV,image,Layout-guided Indoor Panorama Inpainting with Plane-aware Normalization,https://arxiv.org/pdf/2301.05624,https://github.com/ericsujw/LGPN-net,
 2021,CVPRW,image,PanoDR: Spherical Panorama Diminished Reality for Indoor Scenes,https://openaccess.thecvf.com/content/CVPR2021W/OmniCV/papers/Gkitsas_PanoDR_Spherical_Panorama_Diminished_Reality_for_Indoor_Scenes_CVPRW_2021_paper.pdf,https://github.com/VCL3D/PanoDR,
 2021,VISIGRAPP,image,Towards full-to-empty room generation with structure-aware feature encoding and soft semantic region-adaptive normalization,https://arxiv.org/pdf/2112.05396,,
+2023,ISVC,image,Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination,https://arxiv.org/pdf/2311.12265,https://github.com/Gzhji/vs_natural_ill,
+2024,arXiv,image,"Windowed-FourierMixer: Enhancing Clutter-Free Room Modeling with Fourier Transform
+",https://arxiv.org/pdf/2402.18287,,
