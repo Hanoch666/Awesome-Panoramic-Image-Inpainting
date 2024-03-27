@@ -27,7 +27,7 @@ Welcome to pull request to update or correct this collection. 🥰
 
 def readme_to_csv():
     # save all data to csv file 
-    csvfile = open(COLLECTION_CSV, 'w',newline='')
+    csvfile = open(COLLECTION_CSV, 'w', newline='')
     csv_writer = csv.writer(csvfile, delimiter=',')
     csv_writer.writerow(['Year', 'Conf', 'Type', 'Ttitle', 'URL', 'Code', 'Project'])
 
